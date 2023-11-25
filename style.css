@@ -1,0 +1,31 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center!important;
+}
+.red {
+    color: red!important;
+    font-weight: bolder;
+}
+#header {
+    border-style: dashed;
+}
+#ai {
+    background-color: rgb(245,245,245);
+    border-radius: 10%;
+}
+.button_type1 {
+    background-color: gray;
+    border-radius: 15%;
+    border-style: dashed;
+    
+}
+.button_type2 {
+    background-color: red;
+    border-radius: 15%;
+    border-style: dashed;
+    color:white;
+}
+#converse {
+    border-style: dashed;
+    border-radius: 40%;
+}
